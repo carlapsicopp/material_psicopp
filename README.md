@@ -1,4 +1,4 @@
-# Landing Page - Mentoria
+# Landing Page - Material
 
 Landing page simples com integração de pagamento via Mercado Pago, hospedada no GitHub Pages.
 
